@@ -34,25 +34,22 @@ export default function Header(){
                     
                         <li>
                             <NavLink
-                            exact 
-                            activeStyle={{fontWeight:'bolder', color:'black'}} to="./about">About
+                            to="./about">About
                             </NavLink>
                         </li>
                         <li>
                             <NavLink 
-                            activeStyle={{fontWeight:'bold'}} to="./portfolio">Portfolio
+                            to="./portfolio">Portfolio
                             </NavLink>
                         </li>
                         <li>
                             <NavLink
-                            activeStyle={{fontWeight:'bold'}} 
                             to="./skills">Skills
                             </NavLink>
                         </li>
                         <li>
                             <NavLink 
-                            exact 
-                            activeStyle={{fontWeight:'bolder', color:'black'}} to="./blog">Blog
+                            to="./blog">Blog
                             </NavLink>
                         </li>
                     

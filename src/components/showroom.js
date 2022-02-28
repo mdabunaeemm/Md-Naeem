@@ -12,7 +12,7 @@ export default function Showroom(){
             <p>Hi, we are working to Develop MERN-Stack website so please visit our PortFolio</p>
             <div className="portfolio-video">
                 <button className="portfolio-btn"><Link to="/portfolio">PortFolio</Link></button>
-                <button className="video-btn"><i class="fa-solid fa-play"></i></button>
+                <button className="video-btn"><i className="fa-solid fa-play"></i></button>
             </div>
         </div>
         <div className="showroom-img">

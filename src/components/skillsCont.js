@@ -11,6 +11,7 @@ export default function SkillCont(){
         node:["Node", 80]
     })
 
+
     const {html,css,js,react,node}=skill;
     return(
         <div className="skillCont">

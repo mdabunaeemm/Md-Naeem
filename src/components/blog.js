@@ -6,7 +6,7 @@ export default function Blog(){
             <h1>Blog</h1>
             <div className="blog-container">
                 <div className="single-blog">
-                    <div clasName="blog-title-button">
+                    <div className="blog-title-button">
                         <h2>Lorem ipsum dolor sit amet.</h2>
                         <span className="button">+</span>
                     </div>
